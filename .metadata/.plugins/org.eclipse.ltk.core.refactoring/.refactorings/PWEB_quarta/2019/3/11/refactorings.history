@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;br.unisul.pweb.quarta.Domain&apos; to &apos;br.unisul.pweb.quarta.domain&apos;&#x0D;&#x0A;- Original project: &apos;PWEB_quarta&apos;&#x0D;&#x0A;- Original element: &apos;PWEB_quarta/src/main/java/br.unisul.pweb.quarta.Domain&apos;&#x0D;&#x0A;- Renamed element: &apos;PWEB_quarta/src/main/java/br.unisul.pweb.quarta.domain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;br.unisul.pweb.quarta.Domain&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;br.unisul.pweb.quarta.Domain" name="br.unisul.pweb.quarta.domain" qualified="false" references="true" stamp="1552519406561" textual="false" version="1.0"/>
+</session>
