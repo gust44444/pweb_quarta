@@ -9,5 +9,4 @@ public class PwebQuartaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PwebQuartaApplication.class, args);
 	}
-
 }
