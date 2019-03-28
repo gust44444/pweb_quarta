@@ -1,0 +1,8 @@
+package br.unisul.pweb.quarta.services;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class DbService {
+
+}
