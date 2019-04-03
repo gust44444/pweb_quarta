@@ -1,6 +1,0 @@
-package br.unisul.pweb.quarta.repository;
-
-public interface CategoriaRepository {
-	
-
-}

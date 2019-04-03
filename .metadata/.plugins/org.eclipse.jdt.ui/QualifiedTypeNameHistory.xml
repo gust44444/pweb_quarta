@@ -12,7 +12,20 @@
 <fullyQualifiedTypeName name="antlr.collections.List"/>
 <fullyQualifiedTypeName name="java.io.Serializable"/>
 <fullyQualifiedTypeName name="br.unisul.pweb.quarta.domain.Categoria"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 <fullyQualifiedTypeName name="java.text.ParseException"/>
+<fullyQualifiedTypeName name="br.unisul.pweb.quarta.domain.Estado"/>
+<fullyQualifiedTypeName name="br.unisul.pweb.quarta.repository.EstadoRepository"/>
+<fullyQualifiedTypeName name="br.unisul.pweb.quarta.domain.Produto"/>
+<fullyQualifiedTypeName name="javax.persistence.ManyToMany"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="br.unisul.pweb.quarta.repository.CidadeRepository"/>
+<fullyQualifiedTypeName name="br.unisul.pweb.quarta.services.CidadeService"/>
+<fullyQualifiedTypeName name="br.unisul.pweb.quarta.dtos.CidadeDTO"/>
+<fullyQualifiedTypeName name="br.unisul.pweb.quarta.domain.Cidade"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
 </qualifiedTypeNameHistroy>
