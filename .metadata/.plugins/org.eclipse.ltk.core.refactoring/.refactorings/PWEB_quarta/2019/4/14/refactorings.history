@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Endereco.java&apos; to &apos;PWEB_quarta/src/main/java/br.unisul.pweb.quarta.domain&apos;&#x0D;&#x0A;- Original project: &apos;PWEB_quarta&apos;&#x0D;&#x0A;- Destination element: &apos;PWEB_quarta/src/main/java/br.unisul.pweb.quarta.domain&apos;&#x0D;&#x0A;- Original element: &apos;br.unisul.pweb.quarta.domain.enums.Endereco.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;br.unisul.pweb.quarta.domain" element1="/src\/main\/java&lt;br.unisul.pweb.quarta.domain.enums{Endereco.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1554331390455" units="1" version="1.0"/>
+</session>
